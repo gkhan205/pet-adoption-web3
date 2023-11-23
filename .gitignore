@@ -3,5 +3,6 @@ node_modules
 # Hardhat folders
 artifacts
 cache
+.idea
 
 keys.json
