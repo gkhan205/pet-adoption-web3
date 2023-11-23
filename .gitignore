@@ -1,0 +1,7 @@
+node_modules
+
+# Hardhat folders
+artifacts
+cache
+
+keys.json
